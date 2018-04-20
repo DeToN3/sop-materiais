@@ -28,6 +28,8 @@ TANENBAUM, Andrew S., WOODHULL, S. Sistemas Operacionais. Bookman, 01/2008. [Min
 
 11. O que é um caminho de arquivo?
 
+12. Dê um exemplo de um caminho de um arquivo quaisquer no sistema Windows e um no sistema Linux.
+
 12. O que é um interpretador de comando?
 
 13. Cite um exemplo de uso do interpretador de comando.
