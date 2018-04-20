@@ -32,3 +32,6 @@
 
 16. Cite um exemplo de uso de chamadas de sistemas.
 
+18. Resolva o caça-palavras abaixo:
+
+![](001_palavra_cruzada.png)
